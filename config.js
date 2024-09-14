@@ -48,7 +48,7 @@ module.exports = {
     DISSTICKER: process.env.DISABLE_STICKER === undefined ? false : process.env.DISABLE_STICKER,
     BOT_NAME: process.env.BOT_NAME === undefined ? '👩‍🦰Amazone' : process.env.BOT_NAME,
     THERI_KICK: process.env.THERI_KICK === undefined ? 'true' : process.env.THERI_KICK,
-    SONGD: process.env.SONGD === undefined ? 'ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ' : process.env.SONGD,
+    SONGD: process.env.SONGD === undefined ? 'ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ' : process.env.SONGD, 
     SONGU: process.env.SONGU === undefined ? 'ᴜᴘʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ' : process.env.SONGU,
     TALKING_PINKY: process.env.TALKING_PINKY === undefined ? 'false' : process.env.TALKING_PINKY,
     WELCOME_GIF: process.env.WELCOME_GIF === undefined ? 'https://telegra.ph/file/d969f3365028c88c7719f.mp4' : process.env.WELCOME_GIF,
